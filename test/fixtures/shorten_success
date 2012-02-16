@@ -1,0 +1,29 @@
+HTTP/1.1 200 OK
+Server: nginx/0.7.67
+Date: Fri, 03 Jun 2011 18:17:52 GMT
+Content-Type: application/xml; charset=utf-8
+Connection: keep-alive
+X-Runtime: 33
+ETag: "96e2aec9b5358bed89d8345f4d94b969"
+Cache-Control: private, max-age=0, must-revalidate
+Content-Length: 380
+X-Varnish: 981428441
+Age: 0
+Via: 1.1 varnish
+
+<abrio>
+  <errorCode>0</errorCode>
+  <errorMessage></errorMessage>
+  <results>
+    <nodeKeyVal>
+      <userHash>11jU</userHash>
+      <shortKeywordUrl></shortKeywordUrl>
+      <hash>9</hash>
+      <nodeKey>
+        <![CDATA[http://google.com]]>
+      </nodeKey>
+      <shortUrl>http://abr.io/11jU</shortUrl>
+    </nodeKeyVal>
+  </results>
+  <statusCode>OK</statusCode>
+</abrio>

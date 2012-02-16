@@ -1,0 +1,7 @@
+pkg/*
+*.gem
+.bundle
+doc/*
+test.rb
+.rvmrc
+tags
