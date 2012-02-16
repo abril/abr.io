@@ -14,7 +14,6 @@ Gem::Specification.new do |s|
   s.required_ruby_version = ">= 1.8.7"
 
   #s.rubyforge_project = "abrio"
-  s.add_development_dependency "turn", "~> 0.8.2"
   s.add_development_dependency "fakeweb", "~> 1.3.0"
   s.add_development_dependency "mocha", "~> 0.9.12"
 
