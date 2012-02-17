@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Roger Leite"]
   s.email       = ["roger.leite@abril.com.br"]
-  s.homepage    = ""
+  s.homepage    = "http://github.com/abril/abr.io"
   s.summary     = %q{Client ruby para o encurtador http://abr.io}
   s.description = %q{Client ruby para o encurtador http://abr.io}
   s.required_ruby_version = ">= 1.8.7"
