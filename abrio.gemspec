@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
 
   #s.rubyforge_project = "abrio"
   s.add_development_dependency "fakeweb", "~> 1.3.0"
-  s.add_development_dependency "mocha", "~> 0.9.12"
+  s.add_development_dependency "mocha", "~> 0.10.0"
 
   s.files         = `git ls-files`.split("\n")
   s.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")
